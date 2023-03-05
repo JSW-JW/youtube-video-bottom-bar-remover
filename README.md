@@ -1,6 +1,8 @@
 # 유튜브 비디오 하단 바를 제거해주는 Chrome Extension app
 ## problem
- 바킹독님의 알고리즘 영상 시청 중 유튜브 하단 바가 자막을 가리는 문제가 있었습니다. 너무 좋은 강의이기 때문에 집중을 깨지 않고 제대로 수강하고 싶었습니다.
+[이미지 출처](https://www.youtube.com/watch?v=jZwf4OPlhtk&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=14)
+
+바킹독님의 알고리즘 영상 시청 중 유튜브 하단 바가 자막을 가리는 문제가 있었습니다. 너무 좋은 강의이기 때문에 집중을 깨지 않고 제대로 수강하고 싶었습니다.
 ![](images/problem.png)
 ## demo
 ![](images/demo.png)
