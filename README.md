@@ -2,7 +2,7 @@
 ## problem
 [이미지 출처](https://www.youtube.com/watch?v=jZwf4OPlhtk&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=14)
 
-바킹독님의 알고리즘 영상 시청 중 유튜브 하단 바가 자막을 가리는 문제가 있었습니다. 너무 좋은 강의이기 때문에 집중을 깨지 않고 제대로 수강하고 싶었습니다.
+유튜브에서 강좌를 듣던 중 영상을 정지할 때마다 하단 바가 거슬려 집중이 깨지는 문제가 있음
 ![](images/problem.png)
 ## demo
 ![](images/demo.png)
